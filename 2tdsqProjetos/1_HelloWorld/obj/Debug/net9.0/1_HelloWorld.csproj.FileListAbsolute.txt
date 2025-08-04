@@ -1,0 +1,14 @@
+C:\Users\labsfiap\Downloads\aulaCSharp04_08\2tdsqProjetos\1_HelloWorld\bin\Debug\net9.0\1_HelloWorld.exe
+C:\Users\labsfiap\Downloads\aulaCSharp04_08\2tdsqProjetos\1_HelloWorld\bin\Debug\net9.0\1_HelloWorld.deps.json
+C:\Users\labsfiap\Downloads\aulaCSharp04_08\2tdsqProjetos\1_HelloWorld\bin\Debug\net9.0\1_HelloWorld.runtimeconfig.json
+C:\Users\labsfiap\Downloads\aulaCSharp04_08\2tdsqProjetos\1_HelloWorld\bin\Debug\net9.0\1_HelloWorld.dll
+C:\Users\labsfiap\Downloads\aulaCSharp04_08\2tdsqProjetos\1_HelloWorld\bin\Debug\net9.0\1_HelloWorld.pdb
+C:\Users\labsfiap\Downloads\aulaCSharp04_08\2tdsqProjetos\1_HelloWorld\obj\Debug\net9.0\1_HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\labsfiap\Downloads\aulaCSharp04_08\2tdsqProjetos\1_HelloWorld\obj\Debug\net9.0\1_HelloWorld.AssemblyInfoInputs.cache
+C:\Users\labsfiap\Downloads\aulaCSharp04_08\2tdsqProjetos\1_HelloWorld\obj\Debug\net9.0\1_HelloWorld.AssemblyInfo.cs
+C:\Users\labsfiap\Downloads\aulaCSharp04_08\2tdsqProjetos\1_HelloWorld\obj\Debug\net9.0\1_HelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\labsfiap\Downloads\aulaCSharp04_08\2tdsqProjetos\1_HelloWorld\obj\Debug\net9.0\1_HelloWorld.dll
+C:\Users\labsfiap\Downloads\aulaCSharp04_08\2tdsqProjetos\1_HelloWorld\obj\Debug\net9.0\refint\1_HelloWorld.dll
+C:\Users\labsfiap\Downloads\aulaCSharp04_08\2tdsqProjetos\1_HelloWorld\obj\Debug\net9.0\1_HelloWorld.pdb
+C:\Users\labsfiap\Downloads\aulaCSharp04_08\2tdsqProjetos\1_HelloWorld\obj\Debug\net9.0\1_HelloWorld.genruntimeconfig.cache
+C:\Users\labsfiap\Downloads\aulaCSharp04_08\2tdsqProjetos\1_HelloWorld\obj\Debug\net9.0\ref\1_HelloWorld.dll
