@@ -1,0 +1,15 @@
+C:\Users\pedro\OneDrive - Fiap-Faculdade de Informática e Administração Paulista\3Semestre\Advanced Business Development with .NET\aulas-csharp-fiap\2tdsqProjetos\2_OOP\bin\Debug\net9.0\2_OOP.exe
+C:\Users\pedro\OneDrive - Fiap-Faculdade de Informática e Administração Paulista\3Semestre\Advanced Business Development with .NET\aulas-csharp-fiap\2tdsqProjetos\2_OOP\bin\Debug\net9.0\2_OOP.deps.json
+C:\Users\pedro\OneDrive - Fiap-Faculdade de Informática e Administração Paulista\3Semestre\Advanced Business Development with .NET\aulas-csharp-fiap\2tdsqProjetos\2_OOP\bin\Debug\net9.0\2_OOP.runtimeconfig.json
+C:\Users\pedro\OneDrive - Fiap-Faculdade de Informática e Administração Paulista\3Semestre\Advanced Business Development with .NET\aulas-csharp-fiap\2tdsqProjetos\2_OOP\bin\Debug\net9.0\2_OOP.dll
+C:\Users\pedro\OneDrive - Fiap-Faculdade de Informática e Administração Paulista\3Semestre\Advanced Business Development with .NET\aulas-csharp-fiap\2tdsqProjetos\2_OOP\bin\Debug\net9.0\2_OOP.pdb
+C:\Users\pedro\OneDrive - Fiap-Faculdade de Informática e Administração Paulista\3Semestre\Advanced Business Development with .NET\aulas-csharp-fiap\2tdsqProjetos\2_OOP\obj\Debug\net9.0\2_OOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pedro\OneDrive - Fiap-Faculdade de Informática e Administração Paulista\3Semestre\Advanced Business Development with .NET\aulas-csharp-fiap\2tdsqProjetos\2_OOP\obj\Debug\net9.0\2_OOP.AssemblyInfoInputs.cache
+C:\Users\pedro\OneDrive - Fiap-Faculdade de Informática e Administração Paulista\3Semestre\Advanced Business Development with .NET\aulas-csharp-fiap\2tdsqProjetos\2_OOP\obj\Debug\net9.0\2_OOP.AssemblyInfo.cs
+C:\Users\pedro\OneDrive - Fiap-Faculdade de Informática e Administração Paulista\3Semestre\Advanced Business Development with .NET\aulas-csharp-fiap\2tdsqProjetos\2_OOP\obj\Debug\net9.0\2_OOP.csproj.CoreCompileInputs.cache
+C:\Users\pedro\OneDrive - Fiap-Faculdade de Informática e Administração Paulista\3Semestre\Advanced Business Development with .NET\aulas-csharp-fiap\2tdsqProjetos\2_OOP\obj\Debug\net9.0\2_OOP.sourcelink.json
+C:\Users\pedro\OneDrive - Fiap-Faculdade de Informática e Administração Paulista\3Semestre\Advanced Business Development with .NET\aulas-csharp-fiap\2tdsqProjetos\2_OOP\obj\Debug\net9.0\2_OOP.dll
+C:\Users\pedro\OneDrive - Fiap-Faculdade de Informática e Administração Paulista\3Semestre\Advanced Business Development with .NET\aulas-csharp-fiap\2tdsqProjetos\2_OOP\obj\Debug\net9.0\refint\2_OOP.dll
+C:\Users\pedro\OneDrive - Fiap-Faculdade de Informática e Administração Paulista\3Semestre\Advanced Business Development with .NET\aulas-csharp-fiap\2tdsqProjetos\2_OOP\obj\Debug\net9.0\2_OOP.pdb
+C:\Users\pedro\OneDrive - Fiap-Faculdade de Informática e Administração Paulista\3Semestre\Advanced Business Development with .NET\aulas-csharp-fiap\2tdsqProjetos\2_OOP\obj\Debug\net9.0\2_OOP.genruntimeconfig.cache
+C:\Users\pedro\OneDrive - Fiap-Faculdade de Informática e Administração Paulista\3Semestre\Advanced Business Development with .NET\aulas-csharp-fiap\2tdsqProjetos\2_OOP\obj\Debug\net9.0\ref\2_OOP.dll
