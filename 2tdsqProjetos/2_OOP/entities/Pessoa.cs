@@ -6,6 +6,7 @@ public class Pessoa
 
     public string nome { get; set; }
     public string email { get; set; }
+    public Endereco endereco { get; set; }
 
     // ctor -> atalho para escrever construtor vazio
     public Pessoa()
@@ -21,7 +22,7 @@ public class Pessoa
     }
 
     public string ExibirDetalhes() => $"Nome: {nome}, Email: {email}";
-    public override string ToString() => $"Nome: {nome}, Email: {email}";
+    public override string ToString() => $"Nome: {nome}, Email: {email}, Endereco: {endereco}";
   
     
 

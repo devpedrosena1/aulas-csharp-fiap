@@ -24,7 +24,11 @@ var novaEmpresa = new PessoaJuridica()
 {
     nome = "FIAP",
     cnpj = "123.456.789-0",
-    email = "fiap@gmail.com"
+    email = "fiap@gmail.com",
+    endereco = new Endereco()
+    {
+        logradouro = "Avenida Paulista 1000A"
+    }
 };
 
 Console.WriteLine(novaEmpresa);
