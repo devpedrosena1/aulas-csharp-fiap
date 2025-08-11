@@ -1,6 +1,9 @@
 ﻿// See https://aka.ms/new-console-template for more information
 
 // formas de escrever algo na tela
+
+using System.Diagnostics;
+
 Console.WriteLine("Hello, World!");
 Console.WriteLine("This is my first class of C#");
 
@@ -40,3 +43,38 @@ string s = "Hello, World"; // No C# o tipo string é um tipo PRIMITIVO, além de
 bool condicao = true;
 
 // (condicionais)
+Console.WriteLine(letter == 'A' ? "A letra é A" : "A letra é diferente de A");
+
+switch (letter)
+{
+    case 'A':
+        Console.WriteLine("A letra é A");
+        break;
+    case 'B':
+        Console.WriteLine("A letra é B");
+        break;
+    default:
+        Console.WriteLine("A letra não é nem A e nem B");
+        break;
+}
+
+var ano = int.Parse(Console.ReadLine());
+//
+// var numeroCalculado:int = ano switch
+// {
+//     < 2000 => 2000,
+//     >= 2000 => DateTime.Now.Year
+// };
+
+// estruturas de repetição
+for (var i = 0; i < 10; i++)
+    Console.WriteLine(i);
+    
+foreach (var i in new int[] {1,2,3,4,5,6,7,8,9})
+    Console.WriteLine(i);
+
+while (ano < 2024)
+{
+    Console.Write(ano);
+    ano++;
+}   
