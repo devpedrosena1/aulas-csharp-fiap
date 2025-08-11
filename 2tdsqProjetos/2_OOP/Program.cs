@@ -5,3 +5,6 @@ using _2_OOP.entities;
 Console.WriteLine("Hello, World!");
 
 var novaPessoa = new Pessoa();
+novaPessoa.nome = "João";
+novaPessoa.idade = 19;
+novaPessoa.email = "joao@gmail.com";
