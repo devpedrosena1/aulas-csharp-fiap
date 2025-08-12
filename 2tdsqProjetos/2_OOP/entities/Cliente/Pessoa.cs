@@ -4,6 +4,7 @@
 public class Pessoa
 {
 
+    public int Id { get; set; }
     public string nome { get; set; }
     public string email { get; set; }
     public Endereco endereco { get; set; }

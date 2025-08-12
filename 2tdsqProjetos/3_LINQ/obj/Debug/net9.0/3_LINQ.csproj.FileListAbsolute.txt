@@ -1,0 +1,15 @@
+C:\Users\pedro\OneDrive - Fiap-Faculdade de Informática e Administração Paulista\3Semestre\Advanced Business Development with .NET\aulas-csharp-fiap\2tdsqProjetos\3_LINQ\bin\Debug\net9.0\3_LINQ.exe
+C:\Users\pedro\OneDrive - Fiap-Faculdade de Informática e Administração Paulista\3Semestre\Advanced Business Development with .NET\aulas-csharp-fiap\2tdsqProjetos\3_LINQ\bin\Debug\net9.0\3_LINQ.deps.json
+C:\Users\pedro\OneDrive - Fiap-Faculdade de Informática e Administração Paulista\3Semestre\Advanced Business Development with .NET\aulas-csharp-fiap\2tdsqProjetos\3_LINQ\bin\Debug\net9.0\3_LINQ.runtimeconfig.json
+C:\Users\pedro\OneDrive - Fiap-Faculdade de Informática e Administração Paulista\3Semestre\Advanced Business Development with .NET\aulas-csharp-fiap\2tdsqProjetos\3_LINQ\bin\Debug\net9.0\3_LINQ.dll
+C:\Users\pedro\OneDrive - Fiap-Faculdade de Informática e Administração Paulista\3Semestre\Advanced Business Development with .NET\aulas-csharp-fiap\2tdsqProjetos\3_LINQ\bin\Debug\net9.0\3_LINQ.pdb
+C:\Users\pedro\OneDrive - Fiap-Faculdade de Informática e Administração Paulista\3Semestre\Advanced Business Development with .NET\aulas-csharp-fiap\2tdsqProjetos\3_LINQ\obj\Debug\net9.0\3_LINQ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pedro\OneDrive - Fiap-Faculdade de Informática e Administração Paulista\3Semestre\Advanced Business Development with .NET\aulas-csharp-fiap\2tdsqProjetos\3_LINQ\obj\Debug\net9.0\3_LINQ.AssemblyInfoInputs.cache
+C:\Users\pedro\OneDrive - Fiap-Faculdade de Informática e Administração Paulista\3Semestre\Advanced Business Development with .NET\aulas-csharp-fiap\2tdsqProjetos\3_LINQ\obj\Debug\net9.0\3_LINQ.AssemblyInfo.cs
+C:\Users\pedro\OneDrive - Fiap-Faculdade de Informática e Administração Paulista\3Semestre\Advanced Business Development with .NET\aulas-csharp-fiap\2tdsqProjetos\3_LINQ\obj\Debug\net9.0\3_LINQ.csproj.CoreCompileInputs.cache
+C:\Users\pedro\OneDrive - Fiap-Faculdade de Informática e Administração Paulista\3Semestre\Advanced Business Development with .NET\aulas-csharp-fiap\2tdsqProjetos\3_LINQ\obj\Debug\net9.0\3_LINQ.sourcelink.json
+C:\Users\pedro\OneDrive - Fiap-Faculdade de Informática e Administração Paulista\3Semestre\Advanced Business Development with .NET\aulas-csharp-fiap\2tdsqProjetos\3_LINQ\obj\Debug\net9.0\3_LINQ.dll
+C:\Users\pedro\OneDrive - Fiap-Faculdade de Informática e Administração Paulista\3Semestre\Advanced Business Development with .NET\aulas-csharp-fiap\2tdsqProjetos\3_LINQ\obj\Debug\net9.0\refint\3_LINQ.dll
+C:\Users\pedro\OneDrive - Fiap-Faculdade de Informática e Administração Paulista\3Semestre\Advanced Business Development with .NET\aulas-csharp-fiap\2tdsqProjetos\3_LINQ\obj\Debug\net9.0\3_LINQ.pdb
+C:\Users\pedro\OneDrive - Fiap-Faculdade de Informática e Administração Paulista\3Semestre\Advanced Business Development with .NET\aulas-csharp-fiap\2tdsqProjetos\3_LINQ\obj\Debug\net9.0\3_LINQ.genruntimeconfig.cache
+C:\Users\pedro\OneDrive - Fiap-Faculdade de Informática e Administração Paulista\3Semestre\Advanced Business Development with .NET\aulas-csharp-fiap\2tdsqProjetos\3_LINQ\obj\Debug\net9.0\ref\3_LINQ.dll
