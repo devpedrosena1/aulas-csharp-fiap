@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("2_OOP")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("5_EntityFrameqorkSqlLite")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f2cf13443174a41cbdaf71de41749d4ca238a4b8")]
-[assembly: System.Reflection.AssemblyProductAttribute("2_OOP")]
-[assembly: System.Reflection.AssemblyTitleAttribute("2_OOP")]
+[assembly: System.Reflection.AssemblyProductAttribute("5_EntityFrameqorkSqlLite")]
+[assembly: System.Reflection.AssemblyTitleAttribute("5_EntityFrameqorkSqlLite")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Gerado pela classe WriteCodeFragment do MSBuild.
