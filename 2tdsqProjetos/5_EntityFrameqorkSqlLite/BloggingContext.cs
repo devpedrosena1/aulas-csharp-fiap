@@ -19,5 +19,5 @@ public class BloggingContext : DbContext
     }
 
     protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
-        => optionsBuilder.UseSqlite(DbPath);
+        => optionsBuilder.UseSqlite($"DataSource={DbPath}");
 }

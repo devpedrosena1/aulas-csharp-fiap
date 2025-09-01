@@ -14,6 +14,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2-EF", "2-EF", "{C42B42DB-E
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5_EntityFrameqorkSqlLite", "5_EntityFrameqorkSqlLite\5_EntityFrameqorkSqlLite.csproj", "{9A851D5A-62EE-4535-8F5F-9181D2A26CBC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6_EntityFrameworkOracle", "6_EntityFrameworkOracle\6_EntityFrameworkOracle.csproj", "{4D99DA1D-2E5E-4B91-85D8-DF2FD430D6E7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -25,6 +27,7 @@ Global
 		{0396DC18-4267-4227-831C-2EA23A4CB4FC} = {A5FB4854-6148-4949-B03A-9FEF93EBE1AF}
 		{00C8FF13-9356-4BCA-B88D-07FC2D91DF7A} = {A5FB4854-6148-4949-B03A-9FEF93EBE1AF}
 		{9A851D5A-62EE-4535-8F5F-9181D2A26CBC} = {C42B42DB-EA95-4255-B04A-4254E92F76FD}
+		{4D99DA1D-2E5E-4B91-85D8-DF2FD430D6E7} = {C42B42DB-EA95-4255-B04A-4254E92F76FD}
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{DFC6431C-CE4B-489E-9F93-909964695B33}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
@@ -47,5 +50,9 @@ Global
 		{9A851D5A-62EE-4535-8F5F-9181D2A26CBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9A851D5A-62EE-4535-8F5F-9181D2A26CBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9A851D5A-62EE-4535-8F5F-9181D2A26CBC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4D99DA1D-2E5E-4B91-85D8-DF2FD430D6E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D99DA1D-2E5E-4B91-85D8-DF2FD430D6E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D99DA1D-2E5E-4B91-85D8-DF2FD430D6E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D99DA1D-2E5E-4B91-85D8-DF2FD430D6E7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
